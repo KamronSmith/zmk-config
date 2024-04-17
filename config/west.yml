@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: zmk
+    - name: KamronSmith
       url-base: https://github.com/KamronSmith
   projects:
     - name: zmk
