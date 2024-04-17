@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/KamronSmith
   projects:
     - name: zmk
-      remote: devel-adaptive
-      revision: main
+      remote: KamronSmith
+      revision: devel-adaptive
       import: app/west.yml
   self:
     path: config
